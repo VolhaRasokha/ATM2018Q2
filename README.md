@@ -7,3 +7,4 @@ ATM2018Q2 Home Task 2
 •	Create new “develop” branch and push 2 commits to it;
 
 Commit to develop branch
+Second commit to develop branch
